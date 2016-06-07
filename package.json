@@ -1,0 +1,19 @@
+{
+  "name": "alexa_telegram",
+  "version": "1.0.0",
+  "description": "Telegram Chat Bot",
+  "main": "alexa.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jwhitely333/whats_good_telegram.git"
+  },
+  "author": "JCW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jwhitely333/whats_good_telegram/issues"
+  },
+  "homepage": "https://github.com/jwhitely333/whats_good_telegram#readme"
+}
